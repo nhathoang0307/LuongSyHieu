@@ -12076,6 +12076,10 @@ h5,
   overflow: scroll;
 }
 
+#home-section ::-webkit-scrollbar{
+  display: none;
+}
+
 .owl-carousel .owl-item {
   opacity: .4;
 }
