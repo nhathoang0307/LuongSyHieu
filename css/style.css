@@ -12073,7 +12073,7 @@ h5,
 
 .owl-carousel {
   position: relative;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 #home-section ::-webkit-scrollbar{
