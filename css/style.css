@@ -12073,6 +12073,7 @@ h5,
 
 .owl-carousel {
   position: relative;
+  overflow: scroll;
 }
 
 .owl-carousel .owl-item {
